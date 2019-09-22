@@ -1,0 +1,1 @@
+Functional programming (Haskell) tasks.
